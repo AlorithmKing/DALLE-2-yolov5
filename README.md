@@ -3,7 +3,10 @@
 
 # 使用教程
 conda create -n yolov5_pyqt5 python=3.8
+
 conda activate yolov5_pyqt5
+
 pip install -r requirements.txt
+
 python main.py
  
